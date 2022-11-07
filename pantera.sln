@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pantera.businessLogic", "pantera.businessLogic\pantera.businessLogic.csproj", "{B257A713-64DA-497A-8E33-298A6FDEE3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pantera.services", "pantera.services\pantera.services.csproj", "{8646B9C0-B86B-43A2-9D68-03C6C2B7B909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pantera.customException", "pantera.customException\pantera.customException.csproj", "{53DFDC22-0109-474E-930A-16B374BCF669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pantera.dataAccess", "pantera.dataAccess\pantera.dataAccess.csproj", "{6BB28F73-3034-44AE-8E90-CAE2F45EE44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pantera.controller", "pantera.controller\pantera.controller.csproj", "{A19D6D5E-FF04-4D7C-AC5C-AB3F3ED6FCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B257A713-64DA-497A-8E33-298A6FDEE3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B257A713-64DA-497A-8E33-298A6FDEE3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B257A713-64DA-497A-8E33-298A6FDEE3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B257A713-64DA-497A-8E33-298A6FDEE3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8646B9C0-B86B-43A2-9D68-03C6C2B7B909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8646B9C0-B86B-43A2-9D68-03C6C2B7B909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8646B9C0-B86B-43A2-9D68-03C6C2B7B909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8646B9C0-B86B-43A2-9D68-03C6C2B7B909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DFDC22-0109-474E-930A-16B374BCF669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DFDC22-0109-474E-930A-16B374BCF669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DFDC22-0109-474E-930A-16B374BCF669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DFDC22-0109-474E-930A-16B374BCF669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB28F73-3034-44AE-8E90-CAE2F45EE44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB28F73-3034-44AE-8E90-CAE2F45EE44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB28F73-3034-44AE-8E90-CAE2F45EE44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB28F73-3034-44AE-8E90-CAE2F45EE44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19D6D5E-FF04-4D7C-AC5C-AB3F3ED6FCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19D6D5E-FF04-4D7C-AC5C-AB3F3ED6FCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19D6D5E-FF04-4D7C-AC5C-AB3F3ED6FCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19D6D5E-FF04-4D7C-AC5C-AB3F3ED6FCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
