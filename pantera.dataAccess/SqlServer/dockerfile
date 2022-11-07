@@ -1,0 +1,9 @@
+FROM mcr.microsoft.com/mssql/server
+
+ENV ACCEPT_EULA=Y
+ENV SA_PASSWORD=yourStrong.Password
+
+EXPOSE 1433
+
+#docker build -t sql_server . (directorio actual)
+#docker run -d --network="host" sql_server     Network=host para la conexión EF-SQL-SERVER Server=127.0.0.1
