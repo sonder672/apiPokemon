@@ -1,0 +1,3 @@
+/home/sonder/project/netCore/pantera/publish/pantera.customException.dll
+/home/sonder/project/netCore/pantera/publish/pantera.customException.deps.json
+/home/sonder/project/netCore/pantera/publish/pantera.customException.pdb
