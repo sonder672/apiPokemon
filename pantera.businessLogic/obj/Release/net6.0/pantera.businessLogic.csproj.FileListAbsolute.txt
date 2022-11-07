@@ -1,0 +1,15 @@
+/home/sonder/project/netCore/pantera/pantera.businessLogic/bin/Release/net6.0/pantera.businessLogic.deps.json
+/home/sonder/project/netCore/pantera/pantera.businessLogic/bin/Release/net6.0/pantera.businessLogic.dll
+/home/sonder/project/netCore/pantera/pantera.businessLogic/bin/Release/net6.0/pantera.businessLogic.pdb
+/home/sonder/project/netCore/pantera/pantera.businessLogic/bin/Release/net6.0/pantera.customException.dll
+/home/sonder/project/netCore/pantera/pantera.businessLogic/bin/Release/net6.0/pantera.customException.pdb
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.csproj.AssemblyReference.cache
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.AssemblyInfoInputs.cache
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.AssemblyInfo.cs
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.csproj.CoreCompileInputs.cache
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.csproj.CopyComplete
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.dll
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/refint/pantera.businessLogic.dll
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/pantera.businessLogic.pdb
+/home/sonder/project/netCore/pantera/pantera.businessLogic/obj/Release/net6.0/ref/pantera.businessLogic.dll
