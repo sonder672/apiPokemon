@@ -1,0 +1,7 @@
+/home/sonder/project/netCore/pantera/publish/pantera.services.dll
+/home/sonder/project/netCore/pantera/publish/pantera.services.deps.json
+/home/sonder/project/netCore/pantera/publish/pantera.services.pdb
+/home/sonder/project/netCore/pantera/publish/pantera.businessLogic.dll
+/home/sonder/project/netCore/pantera/publish/pantera.customException.dll
+/home/sonder/project/netCore/pantera/publish/pantera.businessLogic.pdb
+/home/sonder/project/netCore/pantera/publish/pantera.customException.pdb

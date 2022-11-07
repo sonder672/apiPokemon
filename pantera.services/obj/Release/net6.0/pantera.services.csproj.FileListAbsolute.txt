@@ -1,0 +1,17 @@
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.services.deps.json
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.services.dll
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.services.pdb
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.businessLogic.dll
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.customException.dll
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.businessLogic.pdb
+/home/sonder/project/netCore/pantera/pantera.services/bin/Release/net6.0/pantera.customException.pdb
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.csproj.AssemblyReference.cache
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.AssemblyInfoInputs.cache
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.AssemblyInfo.cs
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.csproj.CoreCompileInputs.cache
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.csproj.CopyComplete
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.dll
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/refint/pantera.services.dll
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/pantera.services.pdb
+/home/sonder/project/netCore/pantera/pantera.services/obj/Release/net6.0/ref/pantera.services.dll

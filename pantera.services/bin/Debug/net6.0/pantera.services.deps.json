@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pantera.services/1.0.0": {
+        "dependencies": {
+          "pantera.businessLogic": "1.0.0",
+          "pantera.customException": "1.0.0"
+        },
+        "runtime": {
+          "pantera.services.dll": {}
+        }
+      },
+      "pantera.businessLogic/1.0.0": {
+        "dependencies": {
+          "pantera.customException": "1.0.0"
+        },
+        "runtime": {
+          "pantera.businessLogic.dll": {}
+        }
+      },
+      "pantera.customException/1.0.0": {
+        "runtime": {
+          "pantera.customException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pantera.services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pantera.businessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pantera.customException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
